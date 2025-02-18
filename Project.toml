@@ -1,6 +1,7 @@
 [deps]
 ComponentArrays = "b0b7db55-cfe3-40fc-9ded-d10e2dbeff66"
 DiffEqFlux = "aae7a2af-3d4f-5e19-a356-7da93b79d9d0"
+DifferentialEquations = "0c46a032-eb83-5123-abaf-570d42b7fbaa"
 Lux = "b2108857-7c20-44ae-9111-449ecde12c47"
 Optimization = "7f7a1694-90dd-40f0-9382-eb1efda571ba"
 OptimizationOptimJL = "36348300-93cb-4f02-beb5-3c3902f8871e"
